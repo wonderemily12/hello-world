@@ -1,2 +1,5 @@
-# hello-world
-These are some changes. I want to make a pull request!
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+  }
+}
